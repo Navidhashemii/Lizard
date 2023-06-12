@@ -1,0 +1,15 @@
+.card{
+    width: 600px;
+    height: 570px;
+    border: 1px solid gray;
+}
+
+.card2{
+    padding: 0 25px 25px 25px;
+}
+
+.btn{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
